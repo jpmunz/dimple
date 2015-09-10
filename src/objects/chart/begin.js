@@ -49,3 +49,5 @@
         this._nextColor = 0;
         // The next series class index to use, this value is cycled around for all default classes
         this._nextClass = 0;
+
+        this._domCache = {};
